@@ -1,0 +1,4 @@
+environmental_raw.txt
+clean_weather.csv
+__pycache__/
+.ipynb_checkpoints/
